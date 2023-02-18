@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lau-r-a
-- Pronouns: she/her, they/them
+- Pronouns: she/her
 
 <!---
 Lau-r-a/Lau-r-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
