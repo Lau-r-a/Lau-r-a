@@ -1,3 +1,5 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lau-r-a&theme=material_palenight)
+
 ## About  Me
 - 👋 Hi, I’m @Lau-r-a
 - Pronouns: she/her
@@ -16,3 +18,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+
