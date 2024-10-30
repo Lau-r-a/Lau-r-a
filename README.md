@@ -1,16 +1,16 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=BF93E3&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=150&lines=Hi%2C+I+am+Laura;I+am+doing+cloud%2C+iac+and+backend+things)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=60&duration=4000&pause=300&color=BF93E3&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=200&lines=Hi%2C+I+am+Laura;I+am+doing+cloud%2C+iac+and+backend+things)
 
 <pre>
-    💼 BSC CS • Cloud Architect • Backend Developer
-    📚 Doing usefull side projects • Building FPV Copters • Reading
-    𓐐 Ramen • Sushi • Crêpe
+💼 BSC CS • Cloud Architect • Backend Developer
+📚 Doing usefull side projects • Building FPV Copters • Reading
+𓐐 Ramen • Sushi • Crêpe
 </pre>
 ___
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lau-r-a&theme=material_palenight" width="auto" height="150px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lau-r-a&theme=material_palenight" width="auto" height="150px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lau-r-a&theme=material_palenight" width="auto" height="140px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lau-r-a&theme=material_palenight" width="auto" height="140px">
 </p>
 
 ___
