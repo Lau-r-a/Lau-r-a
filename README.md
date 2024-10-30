@@ -6,6 +6,12 @@
     📚 Doing usefull side projects • Building FPV Copters • Reading
     𓐐 Ramen • Sushi • Crêpe
 </pre>
+___
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lau-r-a&theme=material_palenight" width="auto" height="150px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lau-r-a&theme=material_palenight" width="auto" height="150px">
+</p>
 
 ___
 <p>
@@ -23,11 +29,4 @@ ___
     <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height="25px">
     <img alt="Hetzner" src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" height="25px">
     <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="25px">
-</p>
-
-___
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lau-r-a&theme=material_palenight" width="auto" height="150px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lau-r-a&theme=material_palenight" width="auto" height="150px">
 </p>
