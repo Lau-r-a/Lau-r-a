@@ -8,10 +8,10 @@
 </pre>
 ___
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lau-r-a&theme=material_palenight" width="auto" height="140px">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lau-r-a&theme=material_palenight" width="auto" height="140px">
-</p>
+<div width="100%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lau-r-a&theme=material_palenight" width="65.5%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lau-r-a&theme=material_palenight" width="32%">
+</div>
 
 ___
 <p>
