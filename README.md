@@ -4,7 +4,6 @@
 <pre>
 💼 BSC CS • Cloud Architect • Backend Developer
 📚 Doing usefull side projects • Building FPV Copters • Reading
-𓐐 Ramen • Sushi • Crêpe
 </pre>
 ___
 
