@@ -9,7 +9,8 @@ ___
 
 <div width="100%" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lau-r-a&theme=material_palenight" width="65.5%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lau-r-a&theme=material_palenight" width="32%">
+  <img src="https://raw.githubusercontent.com/Lau-r-a/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="32%">
+  <img src="https://raw.githubusercontent.com/Lau-r-a/github-stats/master/generated/languages.svg#gh-light-mode-only" width="32%">
 </div>
 
 ___
