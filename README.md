@@ -3,7 +3,7 @@
 
 <pre>
 💼 BSC CS • Cloud Architect • Backend Developer
-📚 Doing usefull side projects • Building FPV Copters • Reading
+📚 Homelab • Building FPV Copters • Reading
 </pre>
 ___
 
