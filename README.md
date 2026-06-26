@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=60&duration=4000&pause=300&color=BF93E3&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=200&lines=Hi%2C+I+am+Laura;I+am+doing+cloud%2C+iac+and+backend+things)
 
 <pre>
-💼 BSC CS • Cloud Architect • Backend Developer
+💼 BSC CS • Cloud Architect • DevOps Engineer
 📚 Homelab • Building FPV Copters • Reading
 </pre>
 ___
